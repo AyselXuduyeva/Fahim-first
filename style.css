@@ -1,0 +1,14 @@
+#nav-list {
+    list-style-type: none;
+    display: flex;
+    column-gap: 10px;
+}
+.nav-list-item {
+   text-decoration: none;
+   color: #A3D3FF;
+   font-family: Poppins;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: normal;
+}
